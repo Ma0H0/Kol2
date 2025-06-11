@@ -5342,24 +5342,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Aorus\\.nuget\\packages\\": {}
+    "C:\\Users\\s30718\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aorus\\Desktop\\Kolokwium2GrupaA\\Kolokwium2GrupaA\\Kolokwium2GrupaA.csproj",
+      "projectUniqueName": "C:\\Users\\s30718\\Desktop\\Kol2\\Kolokwium2GrupaA\\Kolokwium2GrupaA\\Kolokwium2GrupaA.csproj",
       "projectName": "Kolokwium2GrupaA",
-      "projectPath": "C:\\Users\\Aorus\\Desktop\\Kolokwium2GrupaA\\Kolokwium2GrupaA\\Kolokwium2GrupaA.csproj",
-      "packagesPath": "C:\\Users\\Aorus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aorus\\Desktop\\Kolokwium2GrupaA\\Kolokwium2GrupaA\\obj\\",
+      "projectPath": "C:\\Users\\s30718\\Desktop\\Kol2\\Kolokwium2GrupaA\\Kolokwium2GrupaA\\Kolokwium2GrupaA.csproj",
+      "packagesPath": "C:\\Users\\s30718\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\s30718\\Desktop\\Kol2\\Kolokwium2GrupaA\\Kolokwium2GrupaA\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Aorus\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\s30718\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -5377,8 +5379,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.300"
+      }
     },
     "frameworks": {
       "net9.0": {
@@ -5430,7 +5431,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
